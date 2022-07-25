@@ -1,0 +1,55 @@
+div {
+    width: 150;
+    background-color: rgb(19, 4, 93);
+    color: rgb(12, 12, 13);
+    text-align: center;
+    height: 150;
+    border: 1px solid black;
+    border-color: blanchedalmond;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+.obj{
+    width: 80;
+    color: gold;
+    text-align: left;
+    font-size: 15px;
+    height: 80;
+}
+
+#tt{
+   /* background-color: rgb(198, 238, 238);*/
+    color: rgb(7, 7, 238);
+    border: 20px;
+    font-size: large;
+}
+
+#tp{
+    background-color: rgb(198, 238, 238);
+    color: rgb(7, 7, 238);
+}
+
+
+.mt{
+    color: goldenrod;
+}
+
+* {
+    color: rgb(5, 4, 5);
+    background-color: aquamarine;
+    
+    
+
+}
+
+.mt:hover {
+    outline: 1px solid rgb(23, 0, 128);
+    /*background: green;*/
+    background: purple;
+  }
+
+h1{
+    color: goldenrod;
+}
